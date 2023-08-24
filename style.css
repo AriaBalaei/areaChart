@@ -1,0 +1,12 @@
+body{
+  background-color: rgb(255, 206, 233);
+}
+
+.canva{
+  margin:auto;
+  display: block;
+}
+
+.area{
+  fill: rgb(96, 0, 206);
+}
