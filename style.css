@@ -1,5 +1,7 @@
 body{
-  background-color: rgb(255, 206, 233);
+  background-color: rgb(255, 255, 255);
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .canva{
@@ -8,5 +10,27 @@ body{
 }
 
 .area{
-  fill: rgb(96, 0, 206);
+  fill: rgb(105, 143, 201);
+
+}
+
+g .tick text {
+  font-size: 15px;
+  font-style: italic;
+  font-weight: bold;
+  color: rgb(128, 0, 42);
+}
+
+g .tick line{
+  color: rgb(182, 1, 1);
+} 
+
+
+.mline{
+  stroke: blue;
+  stroke-width: 3px;
+}
+
+.dot{
+  fill: darkblue;
 }
